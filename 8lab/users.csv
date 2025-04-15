@@ -1,0 +1,11 @@
+userId,firstName,lastName,phoneNumber,emailAddress
+1,Dmitry,Sidorov,987654321,dmitry.sidorov@learningcontainer.com
+2,Olga,Ivanova,555555555,olga.ivanova@learningcontainer.com
+3,Vladimir,Gromov,33333333,vladimir.gromov@learningcontainer.com
+4,Nikita,Zubarev,11111111,nikita.zubarev@learningcontainer.com
+5,Anna,Petrova,222222222,anna.petrova@learningcontainer.com
+6,Yuri,Kuznetsov,88888888,yuri.kuznetsov@learningcontainer.com
+7,Tatyana,Fedorova,7777777,tatyana.fedorova@learningcontainer.com
+8,Sergei,Smirnov,6666666666,sergei.smirnov@learningcontainer.com
+9,Igor,Korolev,4444444444,igor.korolev@learningcontainer.com
+10,,Sokolov,5555555,sokolov@learningcontainer.com
